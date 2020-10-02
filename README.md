@@ -1,6 +1,8 @@
 ### Hi there and welcome to my GitHub page👋 
 
-- 📫 How to each me [jonas.brunvoll.larsson@gmail.com] 
+🔭 I’m currently working on School assignments.  
+📫 How to each me jonas.brunvoll.larsson@gmail.com. 
+
 
 <!--
 **jonasbrunvoll/jonasbrunvoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
