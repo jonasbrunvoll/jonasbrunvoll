@@ -1,7 +1,7 @@
 ### Hi there and welcome to my GitHub page👋 
 
 🔭 I’m currently working on School assignments.  
-📫 How to each me jonas.brunvoll.larsson@gmail.com. 
+📫 How to reach me jonas.brunvoll.larsson@gmail.com. 
 
 
 <!--
