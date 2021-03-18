@@ -3,7 +3,7 @@
 🔭 I’m currently working on School assignments.  
 📫 Reach me at jonas.brunvoll.larsson@gmail.com. 
 
-[![Github][github-shield][github-url]]
+[![Github][github-shield]][github-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
