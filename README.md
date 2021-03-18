@@ -3,7 +3,7 @@
 🔭 I’m currently working on School assignments.  
 📫 Reach me at jonas.brunvoll.larsson@gmail.com. 
 
-![Profile views counter](https://komarev.com/ghpvc/?username=zenjjim&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=jonasbrunvoll&&style=social)  
 ![Github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
